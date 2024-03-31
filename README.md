@@ -6,8 +6,6 @@ Domain - Python And Machine Learning [ used EDA technique and machine learning a
 Objective :- Identify factors contributing to customer churn and Utilize machine learning algorithms and predictive analytics to forecast potential churn, allowing proactive measures to be taken to prevent it.
 
 
-<< The accuracy rate of customer churn prediction is 80.45% >>
-
 
 About the Dataset :-  The dataset has 12 columns 
 
@@ -52,7 +50,7 @@ Keypoints about the Analysis :-
 
 ** The bank is experiencing customer attrition among those with substantial bank balances, which poses a potential impact on available capital for lending
 
-
+** The accuracy rate of customer churn prediction is 80.45% 
 
 
 
