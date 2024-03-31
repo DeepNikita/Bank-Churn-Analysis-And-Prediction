@@ -1,11 +1,16 @@
 # Bank-Churn-Analysis-And-Prediction
-BANK CHURN ANALYSIS AND PREDICTION
+BANK CHURN ANALYSIS AND PREDICTION   
 
 Domain - Python And Machine Learning [ used EDA technique and machine learning algorithms for predictions]
 
 Objective :- Identify factors contributing to customer churn and Utilize machine learning algorithms and predictive analytics to forecast potential churn, allowing proactive measures to be taken to prevent it.
 
+
+<< The accuracy rate of customer churn prediction is 80.45% >>
+
+
 About the Dataset :-  The dataset has 12 columns 
+
   >> customer_id: This is the customers’ unique id which identifies them.
 
   >> credit_score: this is the rating of the customer's credit Score.
@@ -46,6 +51,8 @@ Keypoints about the Analysis :-
 ** Tenure emerges as a significant factor influencing churn rate, as evidenced by boxplot analysis, with customers spending either more or less time with the bank exhibiting higher churn rates.
 
 ** The bank is experiencing customer attrition among those with substantial bank balances, which poses a potential impact on available capital for lending
+
+
 
 
 
