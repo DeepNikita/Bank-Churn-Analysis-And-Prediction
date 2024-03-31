@@ -7,17 +7,29 @@ Objective :- Identify factors contributing to customer churn and Utilize machine
 
 About the Dataset :-  The dataset has 12 columns 
   >> customer_id: This is the customers’ unique id which identifies them.
+
   >> credit_score: this is the rating of the customer's credit Score.
+
   >> country: This is the country the customer Come from.
+
   >> gender: This is the sex of the customer, grouped into male and female.
+
   >> age: This refers to the customer’s age.
+
   >> tenure: The number of years of relationship this customer has maintained with the bank.
+
   >> balance: The deductible balance on their bank account as at time this data was generated.
+
   >> products_number: This shows the bank account type the customer has.
+
   >> credit_card: This column shows if a customer has a credit card or not, represented as either 1 or 0 respectively.
+
   >> active_member: These numerical values show whether an account is active or not, represented as either 1 or 0 respectively.
+
   >> estimated_ salary: This is the average annual salary received into the account.
+
   >> churn: This field shows if the customer is still with the bank or not, represented by either 0 or 1 respectively
+
 
 
 Keypoints about the Analysis :- 
