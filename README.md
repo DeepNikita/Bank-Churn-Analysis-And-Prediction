@@ -34,12 +34,19 @@ About the Dataset :-  The dataset has 12 columns
 
 Keypoints about the Analysis :- 
 ** Customers exhibiting low account activity are more predisposed with 64 % churn rate
+
 ** The churn rate among male customers that is 60% exceeds that of female customers
-** The churn rate among adults is elevated with 65 % and then comes Seniors with 27 %.
+
+** The churn rate among adults is elevated with 65 % and then comes Seniors with 27 %
+.
 ** Credit card holders exhibit a higher churn rate with 69.91 %
+
 ** The churn rate remains unaffected by credit score, product numbers, and salary
+
 ** Tenure emerges as a significant factor influencing churn rate, as evidenced by boxplot analysis, with customers spending either more or less time with the bank exhibiting higher churn rates.
+
 ** The bank is experiencing customer attrition among those with substantial bank balances, which poses a potential impact on available capital for lending
+
 
 
 Any Feedback or suggestion regarding the projects are kindly accepted, so don't hesistate to put forward your thoughts on this analysis project
